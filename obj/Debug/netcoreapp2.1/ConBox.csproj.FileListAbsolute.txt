@@ -1,0 +1,11 @@
+C:\Users\agarcia02\source\repos\ConsoleApps\ConBox\bin\Debug\netcoreapp2.1\ConBox.deps.json
+C:\Users\agarcia02\source\repos\ConsoleApps\ConBox\bin\Debug\netcoreapp2.1\ConBox.runtimeconfig.json
+C:\Users\agarcia02\source\repos\ConsoleApps\ConBox\bin\Debug\netcoreapp2.1\ConBox.runtimeconfig.dev.json
+C:\Users\agarcia02\source\repos\ConsoleApps\ConBox\bin\Debug\netcoreapp2.1\ConBox.dll
+C:\Users\agarcia02\source\repos\ConsoleApps\ConBox\bin\Debug\netcoreapp2.1\ConBox.pdb
+C:\Users\agarcia02\source\repos\ConsoleApps\ConBox\obj\Debug\netcoreapp2.1\ConBox.csprojAssemblyReference.cache
+C:\Users\agarcia02\source\repos\ConsoleApps\ConBox\obj\Debug\netcoreapp2.1\ConBox.csproj.CoreCompileInputs.cache
+C:\Users\agarcia02\source\repos\ConsoleApps\ConBox\obj\Debug\netcoreapp2.1\ConBox.AssemblyInfoInputs.cache
+C:\Users\agarcia02\source\repos\ConsoleApps\ConBox\obj\Debug\netcoreapp2.1\ConBox.AssemblyInfo.cs
+C:\Users\agarcia02\source\repos\ConsoleApps\ConBox\obj\Debug\netcoreapp2.1\ConBox.dll
+C:\Users\agarcia02\source\repos\ConsoleApps\ConBox\obj\Debug\netcoreapp2.1\ConBox.pdb
